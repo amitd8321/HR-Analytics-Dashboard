@@ -1,67 +1,63 @@
-# 📊 HR Analytics Dashboard  
-### Turning Workforce Data into Retention Intelligence
+# HR Analytics Dashboard | Power BI
+
+## Project Summary
+End-to-end HR analytics solution built in Power BI to analyze employee attrition,
+workforce structure, and satisfaction metrics using clean data modeling and
+DAX-driven KPIs.
+
+This project demonstrates **business-focused analytics**, not just visualization.
 
 ---
 
-## 🔍 Project Overview
-This project is an interactive **HR Analytics Dashboard** built using Power BI that transforms raw employee data into meaningful business insights.  
-The goal is to help organizations understand **employee attrition, satisfaction, and workforce structure** so that HR decisions are driven by data, not assumptions.
-
-Instead of answering only *“who left?”*, this dashboard focuses on *“why they left”*.
-
----
-
-## 🎯 Key Objectives
-- Analyze employee attrition trends
-- Identify factors influencing employee turnover
-- Understand workforce demographics and job satisfaction
-- Support data-driven HR and management decisions
+## Skills Demonstrated
+- Data cleaning & transformation (Excel)
+- Data modeling & relationships
+- DAX measure creation
+- KPI design for HR analytics
+- Interactive dashboard development
+- Business insight generation
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI** – Data visualization & dashboarding  
-- **MS Excel** – Data cleaning and preprocessing  
-- **DAX** – Measures and calculated insights  
+## Core KPIs
+- Total Employees
+- Attrition Count & Attrition Rate (%)
+- Average Monthly Income
+- Average Job Satisfaction
+- Average Years at Company
+- Department & Role-wise Attrition
 
 ---
 
-## 📈 Key Insights
-- Certain job roles and departments show consistently higher attrition
-- Job satisfaction has a stronger impact on retention than salary alone
-- Work-life balance plays a critical role in employee loyalty
-- Longer tenure does not always guarantee lower attrition
+## Technical Execution
+- Cleaned and standardized raw HR dataset
+- Designed optimized data model for analysis
+- Implemented reusable DAX measures
+- Built dynamic visuals with slicers & filters
+- Focused on performance and clarity
 
 ---
 
-## 🖼 Dashboard Preview
+## Business Impact
+- Identifies high-risk attrition segments
+- Supports data-driven retention strategy
+- Improves HR decision-making speed
+- Replaces manual HR reporting with automation
+
+---
+
+## Dashboard Preview
 ![HR Analytics Dashboard](images/dashboard.png)
 
 ---
 
-## 💼 Business Value
-This dashboard enables organizations to:
-- Detect attrition risk early
-- Improve employee retention strategies
-- Optimize workforce planning
-- Shift from reactive HR reporting to proactive decision-making
+## Scalability
+- Can be extended to predictive attrition modeling
+- Suitable for real-time HR data integration
+- Ready for department-level KPI expansion
 
 ---
 
-## 🚀 Future Enhancements
-- Predictive attrition analysis
-- Department-wise KPI benchmarking
-- Time-based trend analysis
-- Integration with real-time HR data
-
----
-
-## 👤 Author
-**Amit Das**  
-Aspiring Data Analyst | Power BI | Excel | Data Visualization | Business Insights  
-
-> *“Data becomes valuable only when it drives better decisions.”*
-
----
-
-⭐ If you find this project useful, feel free to star the repository!
+## Author
+Amit Das  
+Aspiring Data Analyst | Power BI | Excel | DAX | Data Visualization
