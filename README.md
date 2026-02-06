@@ -9,6 +9,25 @@ This project demonstrates **business-focused analytics**, not just visualization
 
 ---
 
+## SQL Analysis (PostgreSQL)
+
+This project also includes SQL-based HR analytics performed using PostgreSQL to support data exploration and validation before visualization in Power BI.
+
+### SQL Objectives
+- Analyze employee attrition using structured queries
+- Identify department-wise and role-wise attrition trends
+- Evaluate salary and overtime impact on attrition
+- Detect high-risk employee segments
+
+### SQL Skills Used
+- SELECT, WHERE, GROUP BY, ORDER BY
+- Aggregate functions (COUNT, AVG)
+- Type casting and filtering logic
+
+📂 All SQL queries are available in the `/sql` folder of this repository.
+
+---
+
 ## Skills Demonstrated
 - Data cleaning & transformation (Excel)
 - Data modeling & relationships
