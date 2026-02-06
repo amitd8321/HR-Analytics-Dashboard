@@ -5,7 +5,8 @@ End-to-end HR analytics solution built in Power BI to analyze employee attrition
 workforce structure, and satisfaction metrics using clean data modeling and
 DAX-driven KPIs.
 
-This project demonstrates **business-focused analytics**, not just visualization.
+This project uses PostgreSQL for data analysis and Power BI for visualization.
+
 
 ---
 
